@@ -11,11 +11,14 @@
   background-color: var(--neutral-color);
   border-radius: 1rem;
   overflow: hidden;
+  margin: 0 .5rem;
   max-width: 350px;
 }
 
-.product__card__image {
-  display: block;
+.product__card {
+  background: url("../images/image-product-mobile.jpg") no-repeat;
+  background-size: contain;
+  height: 250px;
   width: 100%;
 }
 
@@ -117,7 +120,7 @@
   color: var(--primary-color);
   display: inline;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1rem;
+  font-size: .8rem;
   font-weight: 500;
   line-height: 1.5rem;
 }
@@ -138,7 +141,8 @@
     max-width: 580px;
   }
 
-  .product__card__image {
+  .product__card {
+    background-image: url("../images/image-product-desktop.jpg");
     height: 100%;
   }
 
