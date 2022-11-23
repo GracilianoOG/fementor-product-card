@@ -76,6 +76,11 @@
   font-family: 'Fraunces', serif;
   font-size: 2rem;
   font-weight: 700;
+  transition: transform 100ms;
+}
+
+.product__information__discount:hover {
+  transform: scale(1.1) rotate(5deg);
 }
 
 .product__information__price {
