@@ -101,3 +101,22 @@
   margin-right: .75rem;
   width: 15px;
 }
+
+@media screen and (min-width: 992px) {
+  .product {
+    display: flex;
+    max-width: 580px;
+  }
+
+  .product__card {
+    width: 50%;
+  }
+
+  .product__card__image {
+    height: 100%;
+  }
+
+  .product__information {
+    width: 50%;
+  }
+}
