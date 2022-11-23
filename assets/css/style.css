@@ -84,7 +84,13 @@
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   padding: 1rem;
+  transition: background-color 200ms;
   width: 100%;
+}
+
+.button:hover {
+  background-color: var(--dark-highlight-color);
+  cursor: pointer;
 }
 
 .product__information_button {
