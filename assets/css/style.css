@@ -3,7 +3,7 @@
 .wrapper {
   align-items: center;
   display: flex;
-  height: 100vh;
+  height: calc(100vh - 1.5rem);
   justify-content: center;
 }
 
@@ -107,6 +107,28 @@
   height: 18px;
   margin-right: .75rem;
   width: 15px;
+}
+
+.attribution {
+  text-align: center;
+}
+
+.attribution__text {
+  color: var(--primary-color);
+  display: inline;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+}
+
+.attribution__link {
+  color: var(--highlight-color);
+  transition: color 200ms;
+}
+
+.attribution__link:hover {
+  color: var(--dark-highlight-color);
 }
 
 @media screen and (min-width: 992px) {
