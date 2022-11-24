@@ -121,11 +121,11 @@
 
 .product__information_button::before {
   background: url("../images/icon-cart.svg") no-repeat;
-  content: "";
-  display: inline-block;
-  height: 18px;
+  content: ".";
+  color: transparent;
+  height: 100%;
   margin-right: .75rem;
-  width: 15px;
+  width: 1.0625rem;
 }
 
 .attribution {
