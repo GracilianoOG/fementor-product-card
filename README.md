@@ -35,3 +35,4 @@ Challenge from **Frontend Mentor** made by me, based on the design provided.
 
 * [🔍 Frontend Mentor](https://www.frontendmentor.io/home)
 * [🔍 Product Preview Challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+* [🔍 Headings | Don't skip levels](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
