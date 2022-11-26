@@ -38,3 +38,7 @@ Challenge from **Frontend Mentor** made by me, based on the design provided.
 * [🔍 Heading Tags](https://www.w3schools.com/tags/tag_hn.asp)
 * [🔍 Heading Levels - Accessibility](https://dequeuniversity.com/rules/axe/4.3/heading-order?application=axeAPI)
 * [🔍 Picture Tag](https://www.w3schools.com/TAGs/tag_picture.asp)
+* [🔍 Box Alignment - Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Alignment/Box_Alignment_in_Flexbox)
+* [🔍 Article Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
+* [🔍 Section Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
+* [🔍 Lang Attribute](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/lang)
