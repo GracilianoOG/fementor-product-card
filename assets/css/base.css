@@ -10,7 +10,7 @@
   --secondary-color: hsl(228, 12%, 48%);
 
   /* Font */
-  --base-font-size: 14px;
+  --base-font-size: 90%;
 }
 
 html, body {
