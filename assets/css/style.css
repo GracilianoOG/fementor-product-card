@@ -121,19 +121,16 @@
   cursor: pointer;
 }
 
-.product__information_button {
+.product__information__button {
   align-items: center;
   display: flex;
   justify-content: center;
 }
 
-.product__information_button::before {
+.product__cart {
   background: url("../images/icon-cart.svg") no-repeat;
-  content: ".";
-  color: transparent;
-  height: 100%;
-  margin-right: .75rem;
-  width: 1.0625rem;
+  background-size: 1rem;
+  padding-left: 1.75rem;
 }
 
 .attribution {
